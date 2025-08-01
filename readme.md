@@ -1,7 +1,6 @@
-# 🧬 Microbiome Atlas
+# AWS - Hand on experiment-MVP  metabarcoding database
 
 This is a project was created to have hands-on experience with AWS services like S3, EC2, and IAM. It provides a web application for browsing and uploading metabarcoding datasets.
-
 This is a Minimum Viable Product (MVP) that uses S3 for data storage and EC2 for hosting a Streamlit application.   
 
 ## 🏗️ Architecture
