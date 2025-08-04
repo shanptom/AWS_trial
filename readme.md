@@ -196,4 +196,4 @@ streamlit run Home.py --server.port 8501 --server.address 0.0.0.0 --logger.level
 # Check system logs
 sudo tail -f /var/log/messages
 ```
-Abandoned further development of this project is due to the requirement of paid AWS services for production use, which is not feasible for a personal project.
+Further development of this project has been abandoned due to the requirement of paid AWS services for production use, which is not feasible for a personal project.
